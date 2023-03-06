@@ -30,10 +30,10 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/vmihailenco/msgpack/v4 v4.3.11
 	github.com/yhat/wsutil v0.0.0-20170731153501-1d66fa95c997
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	google.golang.org/api v0.20.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/square/go-jose.v2 v2.5.1
